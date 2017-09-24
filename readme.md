@@ -2,7 +2,7 @@
 
 # Summary
 
-The title of my visualization is "Data Science shows left handed 6 foot tall baseball players are the best!". This has a mostly author driven narrative to conclude that the the best baseball players are 6 feet tall (72 inches) and left handed. Being from the UK I am relatively unfamiliar with the sport of baseball and wanted to be able for myself and others to increase there interest in the sport by connecting at a personal level (we all of a certain physiology to compare against). To this end the user is encouraged to interact with the data to discover more information about each datapoint such as number of Home Runs and player weight.
+The title of my visualization is "Data Science shows left handed 6 foot tall baseball players are the best!". This has a mostly author driven narrative to conclude that the the best baseball players are 6 feet tall (72 inches) and left handed. I am relatively unfamiliar with the sport of baseball and wanted to be able for myself and others to increase there interest in the sport by connecting at a personal level (we all of a certain physiology to compare against). To this end the user is encouraged to interact with the data to discover more information about each datapoint such as number of Home Runs and player weight.
 
 # Design
 
